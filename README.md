@@ -14,6 +14,6 @@ Las columnas son las siguientes:
 
 # Como utilizarlo para precedir?
 
-Cree una funcion llamada: predecir_compra_automovil(nueva_entrada, label_encoders, modelo_arbol). Con esta podrás ingresar los valores requeridos para la prediccion, favor tomar en cuenta que solo es la entrada ya que el modelo y labelenconder estan listos.
+Cree una funcion llamada: predecir_compra(nueva_entrada). Con esta podrás ingresar los valores requeridos para la prediccion, favor tomar en cuenta que solo es la entrada ya que el modelo y labelenconder estan listos.
 
 Gracias, espero que sea de mucha utilidad.
