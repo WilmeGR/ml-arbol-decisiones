@@ -12,7 +12,7 @@ Las columnas son las siguientes:
 - safety: Representa el nivel de seguridad del automóvil, con valores "low" (bajo), "med" (medio) o "high" (alto).
 - class: La etiqueta de clase que define la aceptabilidad del automóvil, con valores "unacc" (no aceptable), "acc" (aceptable), "good" (bueno) o "vgood" (muy bueno).
 
-#Como utilizarlo para precedir?
+# Como utilizarlo para precedir?
 
 Cree una funcion llamada: predecir_compra_automovil(nueva_entrada, label_encoders, modelo_arbol). Con esta podrás ingresar los valores requeridos para la prediccion, favor tomar en cuenta que solo es la entrada ya que el modelo y labelenconder estan listos.
 
